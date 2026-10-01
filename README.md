@@ -1,43 +1,129 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Md.%20Shahriar%20Rahman&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Undergraduate%20Student%20%7C%20University%20of%20Liberal%20Arts%20Bangladesh&descSize=16&descAlignY=60" width="100%" alt="Md. Shahriar Rahman"/>
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Md. Shahriar Rahman</h1>
 
+<h3 align="center">
+Undergraduate CSE Student at the University of Liberal Arts Bangladesh
+</h3>
+
+<p align="center">
 <a href="https://github.com/ShahriarRahman4">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=680&height=40&lines=Computer+Science+%26+Engineering+Student;Problem+Solver+%C2%B7+Python+%C2%B7+C%2B%2B;Software+Development+%26+Embedded+Systems;Building+practical+projects+with+real-world+use" alt="Typing intro"/>
+<img src="https://komarev.com/ghpvc/?username=ShahriarRahman4&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </a>
+</p>
 
-<br/>
-
-[![ULAB](https://img.shields.io/badge/ULAB-CSE-0A66C2?style=for-the-badge&logo=academic&logoColor=white)](https://ulab.edu.bd)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc)
-![Profile Views](https://komarev.com/ghpvc/?username=ShahriarRahman4&label=Profile+Views&color=0A66C2&style=for-the-badge)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shahriar-rahman-rifat-800a53354)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shahriarrahman.rifat.5/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rahman4)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/srrifat578)
-
-</div>
-
-<br/>
+---
 
 ## 👨‍💻 About Me
 
-```javascript
-const Shahriar = {
-    role: "Computer Science & Engineering Student",
-    institution: "University of Liberal Arts Bangladesh (ULAB)",
-    focus: ["Software Engineering", "Embedded Systems", "Competitive Programming"],
-    techStack: ["C++", "Python", "Django", "JavaScript", "PHP", "PostgreSQL"],
-    hardware: ["Arduino", "ESP32", "PlatformIO", "ATmega328P"],
-    recentWork: [
-        "Developing UniLife: A Django-based academic recommendation system",
-        "Building an ESP32 AutoSense Smart Plug with wave gesture activation",
-        "Engineering a PID-controlled Line Following Robot"
-    ],
-    mission: "Bridging the gap between software and physical hardware to build robust, real-world solutions."
-};
+* 🎓 Undergraduate Computer Science & Engineering student at **University of Liberal Arts Bangladesh (ULAB)**
+* 💻 Interested in **Software Development, Backend Development, and Automation**
+* 🐍 Currently focusing on **Python and Django**
+* 🤖 Exploring **AI-powered applications and automation**
+* ⚙️ Interested in **Embedded Systems, Robotics, and IoT**
+* 🚀 Building academic, personal, and experimental projects
+* 📚 Always learning and improving my development skills
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/md-shahriar-rahman-rifat-800a53354" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+<a href="https://www.facebook.com/shahriarrahman.rifat.5/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+</a>
+<a href="https://www.hackerrank.com/profile/srrifat578" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+</a>
+<a href="https://codeforces.com/profile/rahman4" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Technologies
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+</p>
+
+### ⚙️ Frameworks & Backend
+
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
+</p>
+
+### 🤖 Embedded Systems & IoT
+
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ShahriarRahman4&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahriarRahman4&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+```text
+Python → Django → REST APIs → AI Integration → Automation
+```
+
+---
+
+<p align="center">
+<i>Building, learning, and improving one project at a time. 🚀</i>
+</p>
