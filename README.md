@@ -95,9 +95,6 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShahriarRahman4&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahriarRahman4&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShahriarRahman4&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahriarRahman4&show_icons=true&locale=en&layout=compact" alt="Most Used Languages"/>
 </p>
