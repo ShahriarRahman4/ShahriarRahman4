@@ -1,3 +1,5 @@
+<img src="assets/black-bg.svg" width="100%" alt=""/>
+
 <div align="center">
 
 <img src="assets/banner.svg" width="100%" alt="Md. Shahriar Rahman"/>
@@ -53,9 +55,12 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,figma&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,spring,mysql,postgres,mongodb&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php&theme=dark" />
+<img src="assets/black-gap.svg" width="100%" alt=""/>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,figma&theme=dark" />
+<img src="assets/black-gap.svg" width="100%" alt=""/>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,spring,mysql,postgres,mongodb&theme=dark" />
+<img src="assets/black-gap.svg" width="100%" alt=""/>
 <img src="https://skillicons.dev/icons?i=arduino,git,github,docker,heroku,postman&theme=dark" />
 
 </div>
@@ -68,7 +73,7 @@
 
 <img src="assets/languages.svg" width="860" alt="Most used languages: Python and C++"/>
 
-<br/>
+<img src="assets/black-gap.svg" width="100%" alt=""/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShahriarRahman4&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&ring_color=00F0FF"/>
 <img height="180" src="https://streak-stats.demolab.com?user=ShahriarRahman4&theme=dark&hide_border=true&background=000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=9CA3AF&dates=6B7280"/>
@@ -79,7 +84,7 @@
 <summary><b>🏆 Trophy cabinet</b></summary>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShahriarRahman4&theme=darkhub&no-frame=true&no-bg=false&margin-w=12&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ShahriarRahman4&theme=matrix&no-frame=true&no-bg=false&margin-w=12&row=1&column=7"/>
 </div>
 </details>
 
@@ -108,8 +113,4 @@
 <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/ShahriarRahman4/ShahriarRahman4/output/github-snake-dark.svg" />
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00F0FF&background=000000&center=true&vCenter=true&width=520&height=40&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+great+together" />
-</div>
+<img src="assets/black-bg.svg" width="100%" alt=""/>
