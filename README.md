@@ -1,17 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Md.%20Shahriar%20Rahman&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Undergraduate%20Student%20%7C%20University%20of%20Liberal%20Arts%20Bangladesh&descSize=16&descAlignY=60" width="100%" alt="Md. Shahriar Rahman"/>
 
-<h1 align="center">Hi 👋, I'm Md. Shahriar Rahman</h1>
-
-<h3 align="center">
-Undergraduate CSE Student at the University of Liberal Arts Bangladesh
-</h3>
-
-<p align="center">
-<a href="https://github.com/ShahriarRahman4">
-<img src="https://komarev.com/ghpvc/?username=ShahriarRahman4&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -112,18 +100,4 @@ Undergraduate CSE Student at the University of Liberal Arts Bangladesh
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahriarRahman4&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
-## 🚀 Current Focus
-
-```text
-Python → Django → REST APIs → AI Integration → Automation
-```
-
----
-
-<p align="center">
-<i>Building, learning, and improving one project at a time. 🚀</i>
 </p>
